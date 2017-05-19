@@ -1,3 +1,3 @@
-# liaoch-util
+# mini-util
 Repository of some common utils 
 
